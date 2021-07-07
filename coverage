@@ -1,0 +1,8 @@
+mode: set
+github.com/atulnath977/FizzBuzz/fizzbuzz.go:8.39,9.17 1 1
+github.com/atulnath977/FizzBuzz/fizzbuzz.go:13.2,13.16 1 1
+github.com/atulnath977/FizzBuzz/fizzbuzz.go:17.2,17.16 1 1
+github.com/atulnath977/FizzBuzz/fizzbuzz.go:21.2,21.18 1 1
+github.com/atulnath977/FizzBuzz/fizzbuzz.go:9.17,11.3 1 0
+github.com/atulnath977/FizzBuzz/fizzbuzz.go:13.16,15.3 1 1
+github.com/atulnath977/FizzBuzz/fizzbuzz.go:17.16,19.3 1 0
